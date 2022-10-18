@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.activation-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.annotation-api-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.authentication-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.authorization-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.batch-api-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.ejb-api-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.el-api-5.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.enterprise.cdi-api-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.enterprise.concurrent-api-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.faces-api-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.inject-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.interceptor-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.jakartaee-api-10.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.jakartaee-web-api-10.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.jms-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.json.bind-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.json-api-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.jws-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.mail-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.persistence-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.resource-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.security.enterprise-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.servlet.jsp.jstl-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.servlet.jsp-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.servlet-api-6.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.transaction-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.validation-api-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.websocket-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.websocket-client-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.ws.rs-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.xml.bind-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.xml.soap-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csiff/Desktop/jakarta/jakarta.xml.ws-api-4.0.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

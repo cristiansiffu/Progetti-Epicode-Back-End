@@ -1,0 +1,21 @@
+Creare un'applicazione che simuli un blog virtuale con le seguenti caratteristiche:
+
+Una classe Articolo che contiene le informazioni relative ad un articolo:
+id, titolo, data, categoria, testo, Autore, Tags
+
+dove Autore è una classe che contiene le seguenti informazioni, relative all'autore dell'articolo:
+id, nome, cognome
+
+e Tags è una classe che contiene un array di stringhe che rappresentano i tag dell'articolo.
+
+La classe Autore implementa l'interfaccia Scrittore, che espone il metodo:
+scriviArticolo( ... info articolo ) -> che prese in ingresso le informazioni dell'articolo, ne crea uno a nome dell'autore e lo restituisce.
+
+Abbiamo poi 2 categorie differenti di articoli prodotti dalle sottoclassi: ArticoloFantasy e ArticoloNoir, che aggiungono il campo
+descrizione, utile a descrivere la categoria.
+
+Infine, abbiamo la classe Blog, che possiede un array di articoli in memoria, ed i metodi:
+- stampaArticoloPerId( id )
+- stampaArticoli()
+
+Nel main, realizzare 4 articoli (e strutture annesse) con valori a piacere, aggiungerli al blog e chiedere all'utente attraverso un menù se vuole stampare in output le informazioni di tutti gli articoli oppure solo di un articolo, passando un determinato id.

@@ -1,0 +1,25 @@
+
+ Nome: Cristian
+ Cognome: Siffu
+ Genere: M
+ Voti: {Grammatica=[8.6, 2.7, 9.5], Fisica=[4.6, 2.8, 8.5], Inglese=[7.6, 9.6, 8.7], Chimica=[6.7, 2.7, 3.5], Matematica=[5.5, 2.3, 7.9], Italiano=[4.0, 3.2, 8.9]}
+
+ Nome: Daniele
+ Cognome: Liburdi
+ Genere: M
+ Voti: {Grammatica=[8.3, 6.7, 4.2], Fisica=[2.1, 2.8, 2.7], Inglese=[8.2, 7.5, 9.9], Chimica=[8.5, 7.8, 4.3], Matematica=[8.9, 2.5, 9.6], Italiano=[8.4, 9.7, 9.9]}
+
+ Nome: Luigi
+ Cognome: Catania
+ Genere: F
+ Voti: {Grammatica=[3.3, 3.5, 5.5], Fisica=[2.1, 4.7, 4.9], Inglese=[4.4, 5.4, 8.4], Chimica=[4.5, 7.0, 6.4], Matematica=[8.9, 9.8, 4.6], Italiano=[6.2, 4.3, 9.9]}
+
+ Nome: Adam
+ Cognome: Losio
+ Genere: F
+ Voti: {Grammatica=[8.7, 4.4, 2.6], Fisica=[2.5, 2.1, 6.5], Inglese=[4.0, 3.7, 7.5], Chimica=[2.5, 7.4, 7.9], Matematica=[9.0, 9.1, 2.8], Italiano=[8.2, 6.3, 2.7]}
+
+ Nome: Francesco
+ Cognome: Giorgiò
+ Genere: M
+ Voti: {Grammatica=[4.0, 7.4, 4.8], Fisica=[4.1, 3.1, 4.1], Inglese=[4.4, 4.3, 9.0], Chimica=[5.9, 2.9, 5.9], Matematica=[9.3, 4.9, 8.6], Italiano=[2.4, 5.5, 5.2]}

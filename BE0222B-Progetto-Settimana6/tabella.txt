@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS public.contocorrente
+(
+    numero character varying(255) COLLATE pg_catalog."default" NOT NULL,
+    intestatario character varying(50) COLLATE pg_catalog."default" NOT NULL,
+    saldo double precision NOT NULL,
+    CONSTRAINT contocorrente_pkey PRIMARY KEY (numero)
+)
